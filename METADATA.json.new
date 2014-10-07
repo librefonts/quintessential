@@ -1,0 +1,24 @@
+{
+  "name": "Quintessential",
+  "designer": "Astigmatic",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Handwriting",
+  "size": 44312,
+  "fonts": [
+    {
+      "name": "Quintessential",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Quintessential-Regular.ttf",
+      "postScriptName": "Quintessential-Regular",
+      "fullName": "Quintessential",
+      "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Quintessential\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-11-02"
+}
